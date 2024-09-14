@@ -161,6 +161,7 @@
 			"Name": "AlembicHairImporter",
 			"Enabled": true
 		},
+		//毛发渲染插件已经启用
 		{
 			"Name": "HairStrands",
 			"Enabled": true
